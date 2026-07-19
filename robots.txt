@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://designproject.com/sitemap.xml
+Sitemap: https://designproject.az/sitemap.xml
