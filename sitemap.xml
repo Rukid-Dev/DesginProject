@@ -4,91 +4,91 @@
 
   <!-- Main pages -->
   <url>
-    <loc>https://designproject.az/</loc>
+    <loc>https://designproject.cc/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://designproject.az/"/>
-    <xhtml:link rel="alternate" hreflang="az" href="https://designproject.az/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://designproject.az/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://designproject.cc/"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://designproject.cc/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://designproject.cc/"/>
   </url>
 
   <url>
-    <loc>https://designproject.az/studio</loc>
+    <loc>https://designproject.cc/studio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://designproject.az/studio"/>
-    <xhtml:link rel="alternate" hreflang="az" href="https://designproject.az/studio"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://designproject.az/studio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://designproject.cc/studio"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://designproject.cc/studio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://designproject.cc/studio"/>
   </url>
 
   <url>
-    <loc>https://designproject.az/services</loc>
+    <loc>https://designproject.cc/services</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://designproject.az/services"/>
-    <xhtml:link rel="alternate" hreflang="az" href="https://designproject.az/services"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://designproject.az/services"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://designproject.cc/services"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://designproject.cc/services"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://designproject.cc/services"/>
   </url>
 
   <url>
-    <loc>https://designproject.az/sectors</loc>
+    <loc>https://designproject.cc/sectors</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://designproject.az/sectors"/>
-    <xhtml:link rel="alternate" hreflang="az" href="https://designproject.az/sectors"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://designproject.az/sectors"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://designproject.cc/sectors"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://designproject.cc/sectors"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://designproject.cc/sectors"/>
   </url>
 
   <url>
-    <loc>https://designproject.az/work</loc>
+    <loc>https://designproject.cc/work</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://designproject.az/work"/>
-    <xhtml:link rel="alternate" hreflang="az" href="https://designproject.az/work"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://designproject.az/work"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://designproject.cc/work"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://designproject.cc/work"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://designproject.cc/work"/>
   </url>
 
   <!-- Project pages -->
-  <url><loc>https://designproject.az/work/1</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/2</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/3</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/4</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/5</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/6</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/7</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/8</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/9</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/10</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/11</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/12</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/13</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/14</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/15</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/16</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/17</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/18</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/19</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/20</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/21</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/22</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/23</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/24</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/25</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/26</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/27</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/28</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/29</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/30</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/31</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/32</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/33</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/34</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/35</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/36</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/37</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/38</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/39</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/40</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://designproject.az/work/41</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/1</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/2</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/3</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/4</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/5</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/6</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/7</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/8</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/9</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/10</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/11</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/12</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/13</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/14</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/15</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/16</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/17</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/18</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/19</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/20</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/21</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/22</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/23</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/24</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/25</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/26</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/27</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/28</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/29</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/30</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/31</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/32</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/33</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/34</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/35</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/36</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/37</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/38</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/39</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/40</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://designproject.cc/work/41</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
 
 </urlset>
